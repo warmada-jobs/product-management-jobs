@@ -1,6 +1,6 @@
 # US Product Management Jobs
 
-Open product management roles at US employers: 149 product management roles at 108 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=product-management).** Last updated 2026-11-14.
+Open product management roles at US employers: 149 product management roles at 108 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=product-management).** Last updated 2026-11-15.
 
 All 149 are listed below. Browse the newest on [warmada.com/jobs/product-management](https://warmada.com/jobs/product-management?utm_source=github&utm_medium=list&utm_campaign=product-management).
 
